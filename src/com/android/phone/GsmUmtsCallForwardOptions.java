@@ -1,15 +1,12 @@
 package com.android.phone;
 
 import android.app.ActionBar;
-<<<<<<< HEAD
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.DialogInterface;
-=======
 import android.content.ContentProvider;
->>>>>>> 4191c27f7 (RESTRICT AUTOMERGE)
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.database.Cursor;
@@ -17,12 +14,9 @@ import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.Bundle;
 import android.os.PersistableBundle;
-<<<<<<< HEAD
 import android.os.SystemProperties;
-=======
 import android.os.Process;
 import android.os.UserHandle;
->>>>>>> 4191c27f7 (RESTRICT AUTOMERGE)
 import android.preference.Preference;
 import android.preference.PreferenceScreen;
 import android.telephony.CarrierConfigManager;
